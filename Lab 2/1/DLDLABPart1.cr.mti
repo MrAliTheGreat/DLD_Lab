@@ -1,0 +1,15 @@
+{C:/Users/rasou/Desktop/DLD lab/Lab 2/1/FrequencyRegulator.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 2/1/FrequencyRegulator.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FrequencyRegulator
+
+Top level modules:
+	FrequencyRegulator
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 2/1/TestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 2/1/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}

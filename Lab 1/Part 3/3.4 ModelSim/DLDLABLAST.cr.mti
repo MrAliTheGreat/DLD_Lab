@@ -1,0 +1,22 @@
+{C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.4 ModelSim/Oscillator.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.4 ModelSim/Oscillator.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Oscillator
+
+Top level modules:
+	Oscillator
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.4 ModelSim/Part3_4.vo} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.4 ModelSim/Part3_4.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Part3_4
+
+Top level modules:
+	Part3_4
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.4 ModelSim/TestBench.v} {1 {vlog -work work {C:\Users\rasou\Desktop\DLD lab\Lab 1\Part 3\3.4 ModelSim\TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}

@@ -1,0 +1,64 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vRegulator
+!i10b 1
+Z1 !s100 ZF]SjSa4zTR7D^lGOVcji2
+Z2 Ia[RT;_d_gG<kFFaJ6KIJA3
+Z3 Vl0zPS60[da1HYEX<S`g:F0
+Z4 dC:\Users\rasou\Desktop\DLD lab\Lab 2\1 ModelSim
+Z5 w1597734768
+Z6 8C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/Regulator.vo
+Z7 FC:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/Regulator.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1597764626.920000
+!s107 C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/Regulator.vo|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/Regulator.vo|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@regulator
+vring_oscillator
+Z12 !s100 L`X@`_goWM>[Q^]07T6Md0
+Z13 Ie^]hJah^ZnmZhFobXj6<73
+Z14 VgR0SilQ[H8XS;@cVHhP=g3
+R4
+Z15 w1597737430
+Z16 8C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/ring_oscillator.v
+Z17 FC:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/ring_oscillator.v
+L0 3
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/ring_oscillator.v|
+R10
+Z19 !s108 1597764626.700000
+Z20 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/ring_oscillator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+Z21 !s100 m8C:n1j4@g4mTC[M_Wl<[0
+Z22 IPh0z:Bk7E@ecELb10YFYz1
+Z23 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+Z24 w1597737616
+Z25 8C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/TestBench.v
+Z26 FC:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/TestBench.v
+L0 2
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/TestBench.v|
+R10
+Z28 n@test@bench
+!i10b 1
+!s85 0
+Z29 !s108 1597764626.800000
+Z30 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/TestBench.v|
+!s101 -O0

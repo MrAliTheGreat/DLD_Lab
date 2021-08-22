@@ -1,0 +1,29 @@
+{C:/Users/rasou/Desktop/DLD lab/Lab 3/1/AmplitudeSelector.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/AmplitudeSelector.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AmplitudeSelector
+
+Top level modules:
+	AmplitudeSelector
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/WaveGenerator.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/WaveGenerator.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WaveGenerator
+
+Top level modules:
+	WaveGenerator
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/TestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/Counter10.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 3/1/Counter10.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter10
+
+Top level modules:
+	Counter10
+
+} {} {}}

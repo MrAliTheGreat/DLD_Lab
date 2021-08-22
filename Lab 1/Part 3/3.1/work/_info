@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rasou\Desktop\DLD lab\Lab 1\Part 2
+vOscillator
+Z1 !s100 UzHCFSh03QjD?=<A>2[iB3
+Z2 ISD3N`ALj[]91G<MJ23Qmi1
+Z3 VS@TzTZ:<WfbaM3ZMMcB<O1
+Z4 dC:\Users\rasou\Desktop\DLD lab\Lab 1\Part 3\3.1
+Z5 w1597146229
+Z6 8C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/Oscillator.v
+Z7 FC:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/Oscillator.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/Oscillator.v|
+Z10 o-work work -O0
+Z11 n@oscillator
+!i10b 1
+!s85 0
+Z12 !s108 1597146654.593000
+Z13 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/Oscillator.v|
+!s101 -O0
+vTestBench
+!i10b 1
+Z14 !s100 l^kNjWT9>5@eoWgWQ^bPn1
+Z15 ISHnB[]@OKbWe];]@gFk9e0
+Z16 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+Z17 w1597144457
+Z18 8C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/TestBench.v
+Z19 FC:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/TestBench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1597146654.693000
+!s107 C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/TestBench.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 3/3.1/TestBench.v|
+!s101 -O0
+R10
+Z21 n@test@bench

@@ -1,0 +1,29 @@
+{C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/TestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Timer.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Timer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lm_555_timer
+
+Top level modules:
+	lm_555_timer
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/AlternativeTB.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/AlternativeTB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AlternativeTB
+
+Top level modules:
+	AlternativeTB
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Alternative.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Alternative.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Alternative
+
+Top level modules:
+	Alternative
+
+} {} {}}

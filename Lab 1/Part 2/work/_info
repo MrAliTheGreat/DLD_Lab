@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vAlternative
+Z1 I@Y5_UObWoDbFML:^8:fmF0
+Z2 V5B`UTf<fP@8Jj3k59JIcU2
+Z3 dC:\Users\rasou\Desktop\DLD lab\Lab 1\Part 2
+Z4 w1597255010
+Z5 8C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Alternative.v
+Z6 FC:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Alternative.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Alternative.v|
+Z9 o-work work -O0
+Z10 n@alternative
+!i10b 1
+Z11 !s100 C3Mmm_N`=PFoiTjj;@5[F0
+!s85 0
+Z12 !s108 1597255012.474000
+Z13 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Alternative.v|
+!s101 -O0
+vAlternativeTB
+!i10b 1
+Z14 !s100 DhWW]CacMTCSS>P:T7=D50
+Z15 INng_65kn3ZhL5dRDzmYS72
+Z16 VlmdVBPDgGo558`YZ==ZEX1
+R3
+Z17 w1597254902
+Z18 8C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/AlternativeTB.v
+Z19 FC:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/AlternativeTB.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1597255012.572000
+!s107 C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/AlternativeTB.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/AlternativeTB.v|
+!s101 -O0
+R9
+Z21 n@alternative@t@b
+vlm_555_timer
+Z22 !s100 XDi;BD8[3HHNXN1=?6ROE0
+Z23 IINoCl5G@ke2FHX9CQ6]<m2
+Z24 VLghCE@UMDTZga<KBa6?5l3
+R3
+Z25 w1597143746
+Z26 8C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Timer.v
+Z27 FC:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Timer.v
+L0 3
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Timer.v|
+R9
+Z29 !s108 1597255012.277000
+Z30 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/Timer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+Z31 !s100 J^e?17YSTT2<cZgOclzbG2
+Z32 Im?h?iiXUnJ^k3S0X<14Yl0
+Z33 VH;VS]59WmQ>4a<zRibM9Z0
+R3
+Z34 w1597143669
+Z35 8C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/TestBench.v
+Z36 FC:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/TestBench.v
+L0 2
+R7
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/TestBench.v|
+R9
+Z38 n@test@bench
+Z39 !s108 1597255012.380000
+Z40 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 1/Part 2/TestBench.v|
+!i10b 1
+!s85 0
+!s101 -O0

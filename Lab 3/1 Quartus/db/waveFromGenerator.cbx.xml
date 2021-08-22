@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="waveFromGenerator">
+		<CBX_INST_ENTRY INSTANCE_NAME="|waveFromGenerator|BUSMUX:Multiplexer|lpm_mux:$00000" CBX_FILE_NAME="mux_erc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|waveFromGenerator|WaveGenerator:inst|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_o9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|waveFromGenerator|cut_ROM:ROM_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_gta1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

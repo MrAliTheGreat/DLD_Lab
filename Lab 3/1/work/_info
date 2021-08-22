@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vAmplitudeSelector
+!i10b 1
+Z1 !s100 JiQDHJoWDe>Ln88<A3c6F3
+Z2 I?Y;UACVId:9QBRE=8<nhC3
+Z3 V6izzgV27_6ed[R4EWE1c@2
+Z4 dC:\Users\rasou\Desktop\DLD lab\Lab 3\1
+Z5 w1598267741
+Z6 8C:/Users/rasou/Desktop/DLD lab/Lab 3/1/AmplitudeSelector.v
+Z7 FC:/Users/rasou/Desktop/DLD lab/Lab 3/1/AmplitudeSelector.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1598268153.262000
+!s107 C:/Users/rasou/Desktop/DLD lab/Lab 3/1/AmplitudeSelector.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 3/1/AmplitudeSelector.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@amplitude@selector
+vCounter10
+Z12 !s100 Oj06HIhl1KM7e42B>@6D90
+Z13 I3HA^RU0Mhf[aD@5;oNZ7S1
+Z14 VZ:[@nMa@JVFlm70AW5Jh[3
+R4
+Z15 w1598168210
+Z16 8C:/Users/rasou/Desktop/DLD lab/Lab 3/1/Counter10.v
+Z17 FC:/Users/rasou/Desktop/DLD lab/Lab 3/1/Counter10.v
+L0 2
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 3/1/Counter10.v|
+R10
+Z19 n@counter10
+!i10b 1
+!s85 0
+Z20 !s108 1598268153.172000
+Z21 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 3/1/Counter10.v|
+!s101 -O0
+vTestBench
+Z22 I10a=zDO^MC8n5WcDH3DjP1
+Z23 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+Z24 w1598268148
+Z25 8C:/Users/rasou/Desktop/DLD lab/Lab 3/1/TestBench.v
+Z26 FC:/Users/rasou/Desktop/DLD lab/Lab 3/1/TestBench.v
+L0 2
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 3/1/TestBench.v|
+R10
+Z28 n@test@bench
+Z29 !s100 GSEmaFWEzC2C4SC`:TbMk0
+Z30 !s108 1598268153.072000
+Z31 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 3/1/TestBench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vWaveGenerator
+Z32 !s100 GAg@W4ld4]@Sa>UHEHPUC1
+Z33 IieK395cB:OSQiXdN@14D@1
+Z34 VW>U4LjEEz7TW0aB54WeP71
+R4
+Z35 w1598203247
+Z36 8C:/Users/rasou/Desktop/DLD lab/Lab 3/1/WaveGenerator.v
+Z37 FC:/Users/rasou/Desktop/DLD lab/Lab 3/1/WaveGenerator.v
+L0 2
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 3/1/WaveGenerator.v|
+R10
+Z39 n@wave@generator
+Z40 !s108 1598268152.972000
+Z41 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 3/1/WaveGenerator.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\rasou\Desktop\DLD lab\Lab 1\Part 2
+vFrequencyRegulator
+Z1 !s100 Cn3T[CbaTCB_XzGQl1Yml2
+Z2 Iocf_ojNK7DKz2`KWPIW3o3
+Z3 V`V@_0U:_nMal;z7@5?GBj3
+Z4 dC:\Users\rasou\Desktop\DLD lab\Lab 2\1
+Z5 w1597737259
+Z6 8C:/Users/rasou/Desktop/DLD lab/Lab 2/1/FrequencyRegulator.v
+Z7 FC:/Users/rasou/Desktop/DLD lab/Lab 2/1/FrequencyRegulator.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 2/1/FrequencyRegulator.v|
+Z10 o-work work -O0
+Z11 n@frequency@regulator
+!i10b 1
+!s85 0
+Z12 !s108 1597737351.986000
+Z13 !s107 C:/Users/rasou/Desktop/DLD lab/Lab 2/1/FrequencyRegulator.v|
+!s101 -O0
+vTestBench
+!i10b 1
+!s100 @@MYVbX=2^<B:2h^YjYBF3
+I`PaUMmBM>@lEQKBG@i>AH0
+Z14 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+w1597737349
+Z15 8C:/Users/rasou/Desktop/DLD lab/Lab 2/1/TestBench.v
+Z16 FC:/Users/rasou/Desktop/DLD lab/Lab 2/1/TestBench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1597737352.096000
+!s107 C:/Users/rasou/Desktop/DLD lab/Lab 2/1/TestBench.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/rasou/Desktop/DLD lab/Lab 2/1/TestBench.v|
+!s101 -O0
+R10
+Z18 n@test@bench

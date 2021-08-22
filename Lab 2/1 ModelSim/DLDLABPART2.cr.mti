@@ -1,0 +1,22 @@
+{C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/ring_oscillator.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/ring_oscillator.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ring_oscillator
+
+Top level modules:
+	ring_oscillator
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/Regulator.vo} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/Regulator.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Regulator
+
+Top level modules:
+	Regulator
+
+} {} {}} {C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/TestBench.v} {1 {vlog -work work {C:/Users/rasou/Desktop/DLD lab/Lab 2/1 ModelSim/TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}

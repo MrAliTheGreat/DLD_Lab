@@ -1,0 +1,197 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 125C Model Setup 'oscillator_clk'
+Slack : -13.843
+TNS   : -111.199
+
+Type  : Slow 1200mV 125C Model Setup 'FPGA_clk'
+Slack : -10.042
+TNS   : -245.316
+
+Type  : Slow 1200mV 125C Model Setup 'ld_counter'
+Slack : -9.702
+TNS   : -75.298
+
+Type  : Slow 1200mV 125C Model Setup 'FrequencyRegulator:inst2|prev_psi'
+Slack : -2.475
+TNS   : -4.917
+
+Type  : Slow 1200mV 125C Model Hold 'ld_counter'
+Slack : -6.655
+TNS   : -41.196
+
+Type  : Slow 1200mV 125C Model Hold 'oscillator_clk'
+Slack : -4.475
+TNS   : -19.916
+
+Type  : Slow 1200mV 125C Model Hold 'FPGA_clk'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'FrequencyRegulator:inst2|prev_psi'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Recovery 'oscillator_clk'
+Slack : -14.501
+TNS   : -106.091
+
+Type  : Slow 1200mV 125C Model Recovery 'ld_counter'
+Slack : -9.950
+TNS   : -65.499
+
+Type  : Slow 1200mV 125C Model Removal 'ld_counter'
+Slack : -4.614
+TNS   : -23.039
+
+Type  : Slow 1200mV 125C Model Removal 'oscillator_clk'
+Slack : -2.640
+TNS   : -8.861
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FPGA_clk'
+Slack : -3.000
+TNS   : -40.175
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'oscillator_clk'
+Slack : -3.000
+TNS   : -24.397
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'ld_counter'
+Slack : -3.000
+TNS   : -21.622
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'FrequencyRegulator:inst2|prev_psi'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'oscillator_clk'
+Slack : -11.902
+TNS   : -94.978
+
+Type  : Slow 1200mV -40C Model Setup 'ld_counter'
+Slack : -8.619
+TNS   : -69.755
+
+Type  : Slow 1200mV -40C Model Setup 'FPGA_clk'
+Slack : -8.357
+TNS   : -203.934
+
+Type  : Slow 1200mV -40C Model Setup 'FrequencyRegulator:inst2|prev_psi'
+Slack : -2.158
+TNS   : -4.289
+
+Type  : Slow 1200mV -40C Model Hold 'ld_counter'
+Slack : -5.578
+TNS   : -33.590
+
+Type  : Slow 1200mV -40C Model Hold 'oscillator_clk'
+Slack : -3.839
+TNS   : -18.603
+
+Type  : Slow 1200mV -40C Model Hold 'FPGA_clk'
+Slack : 0.228
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'FrequencyRegulator:inst2|prev_psi'
+Slack : 0.529
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Recovery 'oscillator_clk'
+Slack : -12.419
+TNS   : -90.172
+
+Type  : Slow 1200mV -40C Model Recovery 'ld_counter'
+Slack : -8.812
+TNS   : -57.977
+
+Type  : Slow 1200mV -40C Model Removal 'ld_counter'
+Slack : -4.075
+TNS   : -20.476
+
+Type  : Slow 1200mV -40C Model Removal 'oscillator_clk'
+Slack : -2.719
+TNS   : -9.376
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FPGA_clk'
+Slack : -3.000
+TNS   : -35.125
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'oscillator_clk'
+Slack : -3.000
+TNS   : -20.676
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'ld_counter'
+Slack : -3.000
+TNS   : -18.122
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FrequencyRegulator:inst2|prev_psi'
+Slack : 0.336
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'oscillator_clk'
+Slack : -6.493
+TNS   : -51.076
+
+Type  : Fast 1200mV -40C Model Setup 'ld_counter'
+Slack : -4.438
+TNS   : -31.214
+
+Type  : Fast 1200mV -40C Model Setup 'FPGA_clk'
+Slack : -4.126
+TNS   : -101.208
+
+Type  : Fast 1200mV -40C Model Setup 'FrequencyRegulator:inst2|prev_psi'
+Slack : -0.704
+TNS   : -1.408
+
+Type  : Fast 1200mV -40C Model Hold 'ld_counter'
+Slack : -3.114
+TNS   : -19.054
+
+Type  : Fast 1200mV -40C Model Hold 'oscillator_clk'
+Slack : -2.047
+TNS   : -8.703
+
+Type  : Fast 1200mV -40C Model Hold 'FPGA_clk'
+Slack : -0.079
+TNS   : -0.079
+
+Type  : Fast 1200mV -40C Model Hold 'FrequencyRegulator:inst2|prev_psi'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Recovery 'oscillator_clk'
+Slack : -6.766
+TNS   : -49.878
+
+Type  : Fast 1200mV -40C Model Recovery 'ld_counter'
+Slack : -4.615
+TNS   : -28.969
+
+Type  : Fast 1200mV -40C Model Removal 'ld_counter'
+Slack : -2.135
+TNS   : -10.648
+
+Type  : Fast 1200mV -40C Model Removal 'oscillator_clk'
+Slack : -1.118
+TNS   : -3.786
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FPGA_clk'
+Slack : -3.000
+TNS   : -29.037
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'oscillator_clk'
+Slack : -3.000
+TNS   : -19.049
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'ld_counter'
+Slack : -3.000
+TNS   : -16.820
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FrequencyRegulator:inst2|prev_psi'
+Slack : 0.348
+TNS   : 0.000
+
+------------------------------------------------------------

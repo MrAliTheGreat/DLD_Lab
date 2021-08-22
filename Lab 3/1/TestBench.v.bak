@@ -1,0 +1,36 @@
+`timescale 1ns/1ns
+module TestBench();
+/*  reg clk , rst;
+  reg [2:0] func;
+  wire [7:0] waveForm;
+  
+  WaveGenerator cut_waveGenerator(clk , rst , func , waveForm);
+  
+  always #10 clk =~ clk;
+  
+  initial begin
+    clk = 0; rst = 1; func = 3'b110;
+    #20 rst = 0;
+    #50000
+    $stop;
+  end
+*/
+  reg [1:0] sel;
+  reg [7:0] wave;
+  wire [7:0] final_wave;
+  
+  AmplitudeSelector cut_amplitude(sel , wave , final_wave);
+  
+  initial begin
+    wave = 8'b00100000;
+    sel = 2'b00;
+    #50
+    sel = 2'b01;
+    #50
+    sel = 2'b10;
+    #50
+    sel = 2'b11;
+    #50
+    $stop;    
+  end
+endmodule
